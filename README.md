@@ -31,7 +31,7 @@ Sou estudante de Fisioterapia e Análise e Desenvolvimento de Sistemas, com inte
 ## 📂 Estrutura do projeto
 📁 curriculo-web
 ├── index.html
-└── styles.css
+ └── styles.css
 
 
 ---
