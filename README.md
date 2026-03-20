@@ -49,7 +49,7 @@ Você pode visualizar o currículo abrindo o arquivo `index.html` no navegador.
 
 - 📧 Email: vilarim051@gmail.com
 - 💼 LinkedIn: www.linkedin.com/in/maduvilarim-88580435a
-- 💻 GitHub: 
+- 💻 GitHub: https://github.com/Mariaedu-dev
 
 ---
 
